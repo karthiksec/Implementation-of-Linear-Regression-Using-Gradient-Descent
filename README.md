@@ -59,6 +59,7 @@ print(f"Predicition value: {pre}")
 
 ## Output:
 ![313075169-12f693fc-1365-4e3a-86c7-96318313106b](https://github.com/karthiksec/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/147473368/a959ad87-3249-4437-b136-cdb4a9c1bd0e)
+![313075243-73e99353-2cec-4e7d-9477-91c36cfc2670](https://github.com/karthiksec/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/147473368/bf796f6b-dfec-46a2-93c3-b10387d2d09c)
 
 
 ## Result:
